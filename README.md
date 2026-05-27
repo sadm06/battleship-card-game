@@ -23,8 +23,8 @@ This project was developed during a university course and documents my learning 
 ## Documentation
 
 A Code documentation und gameplay logic, GUI instructions and JShell usage is included:
-> `doc`
-> `battleship-project-documentation.pdf`
+- `doc`
+- `battleship-project-documentation.pdf`
 
 
 ## Project Structure
