@@ -22,14 +22,12 @@ This project was developed during a university course and documents my learning 
 
 ## Documentation
 
-A project documentation including gameplay logic, GUI instructions and JShell usage is included:
+A Code documentation und gameplay logic, GUI instructions and JShell usage is included:
+> `doc`
+> `battleship-project-documentation.pdf`
 
-`battleship-project-documentation.pdf`
 
 ## Project Structure
 
 - `Battleship_GUI/` → GUI implementation using Processing/PApplet  
-- `Battleship_JShell/` → JShell playable version of the game
-
-For detailed instructions on both the GUI and JShell versions, please refer to:
-> `battleship-project-documentation.pdf`
+- `Battleship_JShell/` → JShell playable version of the game 
